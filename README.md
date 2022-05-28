@@ -1,6 +1,8 @@
 # CMVL_simulation
 Simulates a stochastic chain with memory of variable length.
 
+Accepts any number of contexts and states.
+
 In order for the code to work properly, we must respect the following conventions: 
 
 - The context matrix ("cont_mat"), which is a parameter of most functions throughout the code must have its contexts written from right to left and if the number of elements in a given context is less than the greatest size of a context, the remaining entries of that row are filled with None objects.
