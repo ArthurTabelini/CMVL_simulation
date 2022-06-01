@@ -1,5 +1,6 @@
 # CMVL_simulation
-Simulates a stochastic chain with memory of variable length accepting any number of contexts and states.
+
+This code is written in Python and simulates a stochastic chain with memory of variable length accepting any number of contexts and states.
 
 In order for the code to work properly, we must respect the following conventions: 
 
