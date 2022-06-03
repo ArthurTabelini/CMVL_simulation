@@ -8,7 +8,7 @@ In order for the code to work properly, we must respect the following convention
 
 - The probabilities of each row of the transition matrix correspond to the context of same row number of the context matrix.
 
-Now, a brief description of the functions present inthe code:
+Now, a brief description of the functions present in the code:
 
 - extract_context: Given an array which begins with null elements (represented by the keyword "None" in python), the function returns an array with only the elements which are not null of the array passed as a parameter.
 
